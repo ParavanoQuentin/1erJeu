@@ -11,7 +11,7 @@ public class CharacterMovement : MonoBehaviour
     private Animator anim;
 
     private Vector2 velocity = Vector2.zero;
-    private float speed = 5f;
+    private float speed = 50f;
     private int direction = 0;
 
     // Start is called before the first frame update
